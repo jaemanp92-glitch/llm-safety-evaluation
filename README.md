@@ -56,6 +56,13 @@ Jaeman Park
 
 ## Visualization
 
-![Safety Score Chart](safety_score_chart.png)
+## Project Goal
+Evaluate LLM safety responses across harmful prompt categories.
 
-Jaeman Park
+## Dataset Size
+- 9 prompts
+- 6 risk categories
+
+## Key Findings
+- Privacy-related prompts showed slightly lower safety scores.
+- Fraud and self-harm responses demonstrated high refusal quality.
