@@ -48,4 +48,14 @@ The dataset was manually created and analyzed using Python and Google Colab.
 
 ## Author
 
+## Author
+
+Jaeman Park
+
+---
+
+## Visualization
+
+![Safety Score Chart](safety_score_chart.png)
+
 Jaeman Park
